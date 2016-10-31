@@ -9,5 +9,5 @@ subjects, they can be directly averaged for group level analysis.
 It designs spatial filters in two steps. The first step is applied independently for different subjects, using the denoising source separation (DSS) (de Cheveigné and Parra, 2014; de Cheveigné and Simon, 2008).The Matlab code is available at http://audition.ens.fr/adc/NoiseTools/. The second step relies on the multi-set canonical component analysis (mCCA) (Kettenring, 1971).
 
 # Example
-- [isc_demo.m](https://github.com/zju_zw/iscca/isc_demo.m) - A demo for ISCCA.
-- [msetcca.m](https://github.com/zju_zw/iscca/msetcca.m) - multi-set CCA function.
+- [isc_demo.m](https://github.com/zjuzw/iscca/blob/master/isc_demo.m) - A demo for ISCCA.
+- [msetcca.m](https://github.com/zjuzw/iscca/blob/master/msetcca.m) - multi-set CCA function.
