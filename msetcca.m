@@ -17,7 +17,6 @@ function W=msetcca(X,K)
 %                Biometrika, 58(3): 433-451, 1971.
 % 
 
-
 nchannel=size(X,1);
 W=zeros(size(X,1),K,size(X,3));
 N_trial=size(X,3);

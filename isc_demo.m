@@ -14,7 +14,6 @@
 % omitted and the mCCA is applied to the 4-channel data directly.
 
 
-
 clear;close all;
 randn('seed',0);rand('seed',.5);% random seed
 
