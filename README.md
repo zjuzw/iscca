@@ -10,6 +10,6 @@ It designs spatial filters in two steps. The first step is applied independently
 
 # Example
 - [isc_demo.m](https://github.com/zjuzw/iscca/blob/master/isc_demo.m) - A demo for ISCCA.
-- [msetcca0.m](https://github.com/zjuzw/iscca/blob/master/msetcca.m) - Multi-set CCA function.
+- [msetcca0.m](https://github.com/zjuzw/iscca/blob/master/msetcca0.m) - Multi-set CCA function.
 - [simulate_neural_signals.m](https://github.com/zjuzw/iscca/blob/master/simulate_neural_signals.m) - A script to generate simulated neural signals.
 - [neural_signals.mat](https://github.com/zjuzw/iscca/blob/master/neural_signals.mat) - Simulated neural signals.
